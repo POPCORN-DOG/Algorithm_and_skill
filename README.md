@@ -1,4 +1,4 @@
-# Coding_test
+# Daily Algorithm
 - programmers_coding_test
 - SW_Expert_Academy
 - python 부트캠프
