@@ -1,16 +1,7 @@
-# Daily Algorithm
-매일 알고리즘을 풀고 기록합니다. 
-
-## 1. python 부트캠프
-https://bit.ly/2SAK4Gh</br>
-인프런에서 수강할 수 있는 제주코딩베이스캠프 파이썬 프로그래밍 강의</br>
-
-## 2. SW_Expert_Academy
-https://swexpertacademy.com/main/main.do</br>
-삼성 소프트웨어 전문가 아카데미
-
-## 3. Coding_skill
-https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg/playlists</br>
-다양한 코딩 스킬을 연습합니다.
-<br><br>
-![image](https://user-images.githubusercontent.com/79825411/111030734-3f088700-8447-11eb-864e-05803cea1c4a.png)
+# 1. 기출문제 4회
+### 1. 애자일 방법론
+기능 중심 개발(Feature_Driven_Divelopment): 기능별로 짧게짧게 수행 해결
+린(LEAN): `낭`비요소 제거, `품`질 내재화, `지`식 창출, 늦은 `확`정, 빠른 `인`도, `사`람 존중, `전`체 최적화
+스크럼(SCRUM): `매일` 정해진 시간, 장소에서 짧은 시간 개발하는 팀을 위한 프로젝트 관리 중심 방법론
+익스트림 프로그래밍(XP): `의사소통 개선`과 `즉각적 피드백`으로 소프트웨어 품질 향상
+5가지 가치: `피`드백, `존`중, `용`기, `단`순성, 의사`소`통
