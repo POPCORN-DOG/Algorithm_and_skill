@@ -14,5 +14,3 @@ https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg/playlists</br>
 다양한 코딩 스킬을 연습합니다.
 <br><br>
 
-## programming skill map
-![image](https://user-images.githubusercontent.com/79825411/111030734-3f088700-8447-11eb-864e-05803cea1c4a.png)
